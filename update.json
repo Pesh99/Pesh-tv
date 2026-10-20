@@ -5,5 +5,5 @@
   "apkUrl": "https://github.com/Pesh99/Pesh-tv/releases/download/v0.52/PeshTV.apk",
   "sha256": "a906ffdafd9c41c31350c14ff76807f420ab0d521894df1c6925c1af65e81555",
   "minSdk": 26,
-  "notes": "Recent search history: up to four rows above the lowered keyboard. Loading video uses a rotating spinner instead of Preparing/Buffering text. Up from Play/Resume goes to the top navigation bar. Short version label: P.T followed by version number."
+  "notes": ""
 }
