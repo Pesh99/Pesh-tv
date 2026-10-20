@@ -1,0 +1,9 @@
+{
+  "packageName": "dk.sofatv.browser",
+  "versionCode": 50,
+  "versionName": "0.50-github-updates",
+  "apkUrl": "https://github.com/Pesh99/Pesh-tv/releases/download/v0.50/PeshTV.apk",
+  "sha256": "426b57f9b4fdaff08e8ae2c6e7bf8e25db7927c651a605f98d141da9486a32ad",
+  "minSdk": 26,
+  "notes": "Space navigation and keyboard clipping fixed. Slim Top/Search menu. Existing posters stay loaded when appending titles. Stable rapid Up navigation. Website popularity lists for Today, This Week and Newly Added. GitHub update checks."
+}
