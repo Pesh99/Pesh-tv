@@ -1,9 +1,9 @@
 {
   "packageName": "dk.sofatv.browser",
-  "versionCode": 73,
-  "versionName": "2026.10.73",
-  "apkUrl": "https://github.com/Pesh99/Pesh-tv/releases/download/v0.73/PeshTV.apk",
-  "sha256": "8ce935fed93c95dcae8ff333e159f35f0776b78e8f8ad5b334b438aaebd1c147",
+  "versionCode": 74,
+  "versionName": "2026.10.74",
+  "apkUrl": "https://github.com/Pesh99/Pesh-tv/releases/download/v0.74/PeshTV.apk",
+  "sha256": "8016b84d0fa4a93d1472210a699e74778c8f58f30a47b573ffb6866453282243",
   "minSdk": 26,
   "notes": ""
 }
