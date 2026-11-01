@@ -1,9 +1,9 @@
 {
   "packageName": "dk.sofatv.browser",
-  "versionCode": 74,
-  "versionName": "2026.10.74",
-  "apkUrl": "https://github.com/Pesh99/Pesh-tv/releases/download/v0.74/PeshTV.apk",
-  "sha256": "8016b84d0fa4a93d1472210a699e74778c8f58f30a47b573ffb6866453282243",
+  "versionCode": 77,
+  "versionName": "2026.11.77",
+  "apkUrl": "https://github.com/Pesh99/Pesh-tv/releases/download/v0.77/PeshTV.apk",
+  "sha256": "f96586dd2d6f74c09e5177fcd09e39999a613e6c1ccd902fd8db938c709ad487",
   "minSdk": 26,
-  "notes": ""
+  "notes": "Season and episode navigation fixes."
 }
